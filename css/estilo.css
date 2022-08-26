@@ -931,8 +931,9 @@ p {
     max-width: 100%;
 }
 
-.mainAcer div p {
+.loremAcer {
     display: flex;
+    color: black;
     flex-wrap: wrap;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: normal;
